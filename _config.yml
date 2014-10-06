@@ -13,5 +13,6 @@ show_related_posts: false
 markdown: kramdown
 permalink: pretty
 paginate: 3
+paginate_path: "blog/"
 sass:
   compressed: true
