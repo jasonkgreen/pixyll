@@ -6,7 +6,7 @@ layout: page
 
 
 
-Welcome to my e-portfolio and digital homestead.  For several reasons, this will be a work in progress:
+Welcome to my e-portfolio and digital homestead.  For several reasons, this will be a work in perpetual progress:
 
 * It took me decades to create my scattered digital identity, so I imagine it will take quite some time to corral it into some sort of order.
 * Relative to other more traditional forms of identity, there’s not a standard as to how to do an e-portfolio/digital presence, so I’ll be figuring out as I go along how this is going to look and cohere, and reserve the right to change my mind and change anything and everything when I feel like it.
