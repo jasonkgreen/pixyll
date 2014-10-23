@@ -1,3 +1,9 @@
+-------
+layout:page
+----------
+
+
+
 Welcome to my e-portfolio and digital homestead.  For several reasons, this will be a work in progress:
 
 * It took me decades to create my scattered digital identity, so I imagine it will take quite some time to corral it into some sort of order.
