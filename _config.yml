@@ -3,8 +3,8 @@ title: Jason Green
 email: jason@jasongreen.net
 author: Jason Green
 description: "An Exercise in Digital Identity"
-baseurl: ""
-url: "http://www.jasongreen.net"
+baseurl: "/pixyll"
+url: "http://github.com/jasonkgreen/"
 google_analytics:
 animated: false
 show_related_posts: false
