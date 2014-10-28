@@ -1,11 +1,11 @@
 # Site settings
-title: Pixyll
+title: Jason Green
 email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author: Jason Green
+description: "an exercise in digital identity"
 baseurl: "/pixyll"
-url: "http://pixyll.com"
-google_analytics: UA-53548208-1
+url: "http://jasonkgreen.github.io"
+# google_analytics: UA-53548208-1
 animated: false
 show_related_posts: false
 
